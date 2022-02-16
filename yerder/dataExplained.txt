@@ -1,0 +1,7 @@
+combinedData contains:
+	Columns 1,4,22,23 from Most_Recent_Cohorts_All_Data_Elements.RData found in week 3
+		(this is for long/lat and college names)
+	All columns from CCIHE2018-PublicData.xlsx
+		(for SAT verbal score avergaes and region names)
+	Only rows where SAT score is higher than 400
+		(gets rid of data holes where there are 0s for the average)
